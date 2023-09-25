@@ -1,0 +1,19 @@
+{
+  "name": "node_express_sequelize_mysql_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaitriBhavsar/node_express_sequelize_mysql_api.git"
+  },
+  "author": "Maitri Bhavsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaitriBhavsar/node_express_sequelize_mysql_api/issues"
+  },
+  "homepage": "https://github.com/MaitriBhavsar/node_express_sequelize_mysql_api#readme"
+}
